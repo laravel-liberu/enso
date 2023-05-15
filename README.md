@@ -1,10 +1,10 @@
-# Laravel Enso
+# Laravel Liberu
 
 [![StyleCI](https://styleci.io/repos/95136264/shield?branch=master)](https://styleci.io/repos/95136264)
-[![Backers on Open Collective](https://opencollective.com/Enso/backers/badge.svg)](#backers) 
-[![Sponsors on Open Collective](https://opencollective.com/Enso/sponsors/badge.svg)](#sponsors)
+[![Backers on Open Collective](https://opencollective.com/Liberu/backers/badge.svg)](#backers) 
+[![Sponsors on Open Collective](https://opencollective.com/Liberu/sponsors/badge.svg)](#sponsors)
 [![Github Issues](https://img.shields.io/github/issues/laravel-enso/enso)](https://github.com/laravel-enso/enso/issues)
-[![Build Status](https://travis-ci.org/laravel-enso/Enso.svg?branch=master)](https://travis-ci.org/laravel-enso/Enso)
+[![Build Status](https://travis-ci.org/laravel-enso/Liberu.svg?branch=master)](https://travis-ci.org/laravel-enso/Liberu)
 ![GitHub language count](https://img.shields.io/github/languages/count/laravel-enso/enso)
 ![GitHub](https://img.shields.io/github/license/laravel-enso/enso)
 ![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/laravel-enso/enso)
@@ -23,7 +23,7 @@
 
 ### Important
 
-If you are using this project please consult the **[changelog](https://github.com/laravel-enso/Enso/blob/master/CHANGELOG.md)** on every update.
+If you are using this project please consult the **[changelog](https://github.com/laravel-enso/Liberu/blob/master/CHANGELOG.md)** on every update.
 
 ### Official Documentation
 
@@ -66,18 +66,18 @@ Enjoy!
 
 ### Support services (*new*)
 
-While developing Enso, we constantly received private inquiries from devs and teams asking us about paid support. Some of these requests even lead to fruitful collaborations, so we finally decided to launch such an option.
+While developing Liberu, we constantly received private inquiries from devs and teams asking us about paid support. Some of these requests even lead to fruitful collaborations, so we finally decided to launch such an option.
 
-If you're looking for premium support when building applications with Enso we can help you with that. Our support packages start at 480 Eur / month with 8 hours included. With premium support you will get:
+If you're looking for premium support when building applications with Liberu we can help you with that. Our support packages start at 480 Eur / month with 8 hours included. With premium support you will get:
 
 - a private repo on our self hosted gitlab instance where you can host your project
 - priority in addressing your issues
-- help with understanding the Enso environment
-- getting you to be proficient when developing on Enso
+- help with understanding the Liberu environment
+- getting you to be proficient when developing on Liberu
 - mentoring 
 - code reviews
 - general advice & support on Laravel & Vue
-- assistance on Enso version upgrades
+- assistance on Liberu version upgrades
 - up to 4 hours / month of remote desktop sessions and call conferences with your team
 - direct communication via Slack during our office hours
 
@@ -105,30 +105,30 @@ This project is backed by [Earthlink](https://www.earthlink.ro)
 ## Contributors
 
 This project exists thanks to all the people who contribute. 
-<a href="graphs/contributors"><img src="https://opencollective.com/Enso/contributors.svg?width=890&button=false" /></a>
+<a href="graphs/contributors"><img src="https://opencollective.com/Liberu/contributors.svg?width=890&button=false" /></a>
 
 
 ## Backers
 
-Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Enso#backer)]
+Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com/Liberu#backer)]
 
-<a href="https://opencollective.com/Enso#backers" target="_blank"><img src="https://opencollective.com/Enso/backers.svg?width=890"></a>
+<a href="https://opencollective.com/Liberu#backers" target="_blank"><img src="https://opencollective.com/Liberu/backers.svg?width=890"></a>
 
 
 ## Sponsors
 
-Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Enso#sponsor)]
+Support this project by becoming a sponsor. Your logo will show up here with a link to your website. [[Become a sponsor](https://opencollective.com/Liberu#sponsor)]
 
-<a href="https://opencollective.com/Enso/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/Enso/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Enso/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/0/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/1/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/2/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/3/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/4/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/5/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/6/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/7/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/8/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/Liberu/sponsor/9/website" target="_blank"><img src="https://opencollective.com/Liberu/sponsor/9/avatar.svg"></a>
 
 
 ### License
